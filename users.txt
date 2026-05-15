@@ -1,0 +1,4 @@
+admin@ceylontrails.com,admin123,admin,System Admin,+94771234567,Sri Lanka
+dimuthviranga@gmail.com,dimuth02,null,Dimuth Viranga,+94719876555,Sri Lanka
+test1@gmail.com,test1,user,Test 1,+442012345678,United Kingdom
+test2@gmail.com,test2,user,Test 2,+12125550199,United States

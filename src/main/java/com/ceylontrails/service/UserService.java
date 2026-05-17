@@ -10,6 +10,9 @@ import java.util.List;
 
 @Service
 public class UserService {
+    private static final UserService instance = new UserService();
+    public static UserService getInstance() { return instance; }
+
     private final String FILE_PATH = "users.txt";
 
     public UserService() {

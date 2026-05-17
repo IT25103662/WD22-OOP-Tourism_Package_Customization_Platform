@@ -1,0 +1,2 @@
+bbb8eb92-df28-4b6e-bff5-763715bf6136|user@test.com|5|Amazing experience!|true|pkg-1|PACKAGE
+57a79c44-eb26-47cd-83c1-48ce12714b35|dimuthviranga@gmail.com|5|Such a beautiful nature. I totally enjoyed. i recommend this .|false|da2e929c-ffbc-46ac-960f-81202d38cc35|PACKAGE

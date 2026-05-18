@@ -8,3 +8,10 @@ target/
 build/
 
 .log
+
+users.txt
+bookings.txt
+packages.txt
+providers.txt
+reviews.txt
+destinations.txt

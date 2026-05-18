@@ -1,0 +1,4 @@
+da2e929c-ffbc-46ac-960f-81202d38cc35|The Cultural Triangle|assets/images/sigiriya.png|5 Days / 4 Nights|LKR 360,000|Explore ancient cities, sacred temples, and the majestic Sigiriya Rock Fortress in complete luxury.
+bdc7194a-a6c0-4444-aeda-6739702e2f3a|Ceylon Tea Trails|assets/images/tea.png|4 Days / 3 Nights|LKR 450,000|Immerse yourself in the rolling hills of Nuwara Eliya. Stay in restored colonial planter's bungalows.
+5c9675a5-41a0-4f94-b761-10e22e3c777b|Wilderness Safari|assets/images/yala.png|6 Days / 5 Nights|LKR 550,000|Experience the thrill of tracking leopards and elephants while staying in premium glamping tents.
+9e45def3-938e-41e2-8435-c68f2d3af31f|Southern Beach Retreat|assets/images/beach_resort.png|5 Days / 4 Nights|LKR 480,000|Unwind at a luxury beachfront resort. Enjoy infinity pools, spa treatments, and golden tropical sunsets.
